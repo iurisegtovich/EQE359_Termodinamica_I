@@ -2,18 +2,20 @@ Baixe o material todo no botão [[zip]](https://github.com/iurisegtovich/EQE359_
 
 links úteis:
 
-anaconda: https://www.anaconda.com/download/
+[anaconda](https://www.anaconda.com/download/)
 
-python tutor: http://pythontutor.com/live.html
+[python tutor](http://pythontutor.com/live.html)
 
-tutorials point: https://www.tutorialspoint.com/
+[tutorials point](https://www.tutorialspoint.com/)
 
-curso scipy seq 2018: https://iurisegtovich.github.io/CursoSciPySEQ2018/
+[curso scipy seq 2018](https://iurisegtovich.github.io/CursoSciPySEQ2018/)
 
-pytherm: https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/
+[pytherm](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/)
 
-google colab: https://colab.research.google.com/
+[google colab](https://colab.research.google.com/)
 
-> eqe359 termodinamica I: https://iurisegtovich.github.io/EQE359_Termodinamica_I/
+--
+
+eqe359 termodinamica I: https://iurisegtovich.github.io/EQE359_Termodinamica_I/
 
 
