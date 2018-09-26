@@ -1,6 +1,15 @@
-Baixe o material todo no botão [[zip]](https://github.com/iurisegtovich/EQE359_Termodinamica_I/zipball/master)
 
-links úteis:
+# Material complementar do curso de termodinÂmica
+
+## Informações realativas ao período (2018.2)
+
+[>.](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/2018_2)
+
+## Material didático em pdf
+
+[>.](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/material_didatico)
+
+# Links úteis:
 
 [anaconda](https://www.anaconda.com/download/)
 
@@ -13,9 +22,3 @@ links úteis:
 [pytherm](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/)
 
 [google colab](https://colab.research.google.com/)
-
---
-
-eqe359 termodinamica I: https://iurisegtovich.github.io/EQE359_Termodinamica_I/
-
-
