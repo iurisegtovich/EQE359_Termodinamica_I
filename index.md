@@ -3,11 +3,11 @@
 
 ## Informações realativas ao período (2018.2)
 
-[>.](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/2018_2)
+[>. github/2018_2](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/2018_2)
 
 ## Material didático em pdf
 
-[>.](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/material_didatico)
+[>. gitub/material_didatico](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/material_didatico)
 
 # Links úteis:
 
