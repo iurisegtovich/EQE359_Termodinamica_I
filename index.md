@@ -9,6 +9,10 @@
 
 [>. gitub/material_didatico](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/material_didatico)
 
+## Listas de exercícios e provas antigas
+
+[>. gitub/exercicios_e_provas](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/exercicios_e_provas)
+
 # Links úteis:
 
 [anaconda](https://www.anaconda.com/download/)

@@ -1,0 +1,3 @@
+Material antigo disponibilizado para estudo da variabilidade de tipos de questão e estratégias de resolução.
+Inclui arquivos de versões não definitivas de algumas provas e listas.
+Inclui questões com problemas de enunciado não retificadas.
