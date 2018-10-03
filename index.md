@@ -1,7 +1,7 @@
 
 # Material complementar do curso de termodinâmica
 
-## Informações realativas ao período (2018.2)
+## Informações relativas ao período (2018.2)
 
 [>. ~/2018_2](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/2018_2)
 
