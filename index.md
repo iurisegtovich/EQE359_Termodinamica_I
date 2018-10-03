@@ -1,15 +1,12 @@
-
-# Material complementar do curso de termodinâmica
-
-## Informações relativas ao período (2018.2)
+# Informações relativas ao período (2018.2)
 
 [>. ~/2018_2](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/2018_2)
 
-## Material didático em pdf
+# Material didático em pdf
 
 [>. ~/material_didatico](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/material_didatico)
 
-## Listas de exercícios e provas antigas
+# Listas de exercícios e provas antigas
 
 [>. ~/exercicios_e_provas](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/exercicios_e_provas)
 
