@@ -1,5 +1,5 @@
 
-## Material complementar do curso de termodinâmica
+# Material complementar do curso de termodinâmica
 
 ## Informações relativas ao período (2018.2)
 
@@ -13,7 +13,7 @@
 
 [>. ~/exercicios_e_provas](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/exercicios_e_provas)
 
-## Links úteis:
+# Links úteis:
 
 [>. anaconda](https://www.anaconda.com/download/)
 
