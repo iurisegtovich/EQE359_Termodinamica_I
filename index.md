@@ -24,4 +24,3 @@
 
 [>. google colab](https://colab.research.google.com/)
 
-> 201810022236
