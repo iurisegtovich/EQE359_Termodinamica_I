@@ -1,6 +1,7 @@
-# Informações relativas ao período (2018.2)
+# Informações relativas ao período (2019.1)
 
-[>. ~/2018_2](https://github.com/iurisegtovich/EQE359_Termodinamica_I/tree/master/2018_2)
+[>. Enunciado](https://github.com/iurisegtovich/EQE359_Termodinamica_I/raw/master/2019_1/trabalho_eos_2019_1_ENUNCIADO.pdf)
+[>. Anexo](https://github.com/iurisegtovich/EQE359_Termodinamica_I/raw/master/2019_1/trabalho_eos_2019_1_ANEXOS.pdf)
 
 # Material didático em pdf
 
